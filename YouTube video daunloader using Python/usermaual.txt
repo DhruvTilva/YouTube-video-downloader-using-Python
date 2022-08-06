@@ -1,0 +1,26 @@
+step=1 install python on your pc
+step=2 (pip install pytube) installing module with this command
+step=3 import YouTube from pytube module
+step=4 write a source code
+step=5 enjoy smile!
+
+
+Freatures:
+
+--display the tittle 
+-- any video daunload from youtube simply put URL when programm ask LOL!
+--display it give photo imege thumbnail URL
+--display all audio and video formattes
+--put index according to daunload the video quality according to your internet pack LOL!
+--Download any length of video
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&  Author:Dhruv Tilva       &
+& time:15:40  <12 July 2022>&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&  
+
+
+
+
+
